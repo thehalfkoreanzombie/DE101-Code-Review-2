@@ -11,10 +11,10 @@ def weather_report(weather_1, weather_2): #creating weather report function
 
 print(weather_report("hailing", "sunny")) #call function with arguments 'hailing' and 'sunny'
 
-top_ten = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-for item in top_ten:
-    print(item * item)
-if 7 in top_ten:
-    print("We have a 7!")
+top_ten = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10) #created a tuple called top_ten
+for item in top_ten: #for statement
+    print(item * item) #loop for "for" statement
+if 7 in top_ten: #condition for top_ten
+    print("We have a 7!") #if condition is met
 else:
-    print("No 7 here")
+    print("No 7 here") #if condition is not met
