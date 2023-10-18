@@ -9,7 +9,9 @@ For this project, I was tasked with creating a function called plus_three that t
 In order to set this up, you will need to make a directory for your file and then switch over to that directory. Then, create a virtual environment for python 3 to work in. Finally, run an installation of the requirements.txt file using pip and change into your virtual environment using source. Voila, you're all set up to use, alter and extend this code line!
 
 ## Known Bugs
-I had zero issues writing this code. After the practice I got these last two weeks, this was pretty straightforward. I did reinforce the idea that I have to save my python files before I run the code or else nothing will show up in the output. I was troubleshooting for a good while before I figured out I was missing this simple step. Other than that, I had no problems whatsoever 
+I had zero issues writing this code. After the practice I got these last two weeks, this was pretty straightforward. I did reinforce the idea that I have to save my python files before I run the code or else nothing will show up in the output. I was troubleshooting for a good while before I figured out I was missing this simple step. Other than that, I had no problems whatsoever.
+
+SIDE NOTE: when pushing my README.md, requirements.txt, .gitignore and extra comments, I realized I hadn't created a branch to do that. the oops_i_did_it_again branch is solely to recognize this mistake and to ensure it won't happen again
 
 ## License
 Copyright 2023 Alex Wallace
