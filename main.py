@@ -4,3 +4,9 @@ def plus_three(number_1): #set up one argument in the function
 
 print(plus_three(5)) #first call
 print(plus_three(10)) #second call
+
+def weather_report(weather_1, weather_2): #creating weather report function
+    today = "Today is " + weather_1 + " and " + weather_2 #establishing text string for a return with two arguments
+    return(today) #return function
+
+print(weather_report("hailing", "sunny")) #call function with arguments 'hailing' and 'sunny'
